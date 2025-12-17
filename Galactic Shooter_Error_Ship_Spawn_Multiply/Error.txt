@@ -1,0 +1,9 @@
+Error
+Enemy Ship Spawn Reate is Multiply by itself 
+1 spawn 1 
+2 spawn 4 
+4 spawn 8
+and so on ...
+
+There needs to be a least one ship to spawn the other ship 
+ 
